@@ -1,2 +1,2 @@
 # 16022021_10v
-es esmu labs programmetajs
+es esmu izcils programmetajs
